@@ -12,6 +12,7 @@ const CONFIG = {
     reply: '...',
     mess: 'Qua dịch mình đá cái hẹn gặp nhau nha',
     messDesc: 'Ôm cho tắt thở rồi về',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiii
+    lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
